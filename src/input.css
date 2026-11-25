@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --font-dm-sans: "DM Sans", sans-serif;
+  --font-cormorant: "Cormorant Garamond", serif;
+  --color-base: #f6f2ec;
+  --color-secondary: #6f685f;
+}
